@@ -11,9 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class FacebookSignUp {
 
-	public static void main(String[] args) {
-		FaceBook:
-			================================
+	public static void main(String[] args) {		
 			// Step 1: Download and set the path 
 			// Step 2: Launch the chromebrowser
 			// Step 3: Load the URL https://en-gb.facebook.com/
